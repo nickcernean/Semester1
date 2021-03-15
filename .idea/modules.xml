@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApartmentComplex/ApartmentComplex.iml" filepath="$PROJECT_DIR$/ApartmentComplex/ApartmentComplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayCreation/ArrayCreation.iml" filepath="$PROJECT_DIR$/ArrayCreation/ArrayCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayOfStrings/ArrayOfStrings.iml" filepath="$PROJECT_DIR$/ArrayOfStrings/ArrayOfStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Board/Board.iml" filepath="$PROJECT_DIR$/Board/Board.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book/Book.iml" filepath="$PROJECT_DIR$/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CD/CD.iml" filepath="$PROJECT_DIR$/CD/CD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRental/CarRental.iml" filepath="$PROJECT_DIR$/CarRental/CarRental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_v1/Car_v1.iml" filepath="$PROJECT_DIR$/Car_v1/Car_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car_v2/Car_v2.iml" filepath="$PROJECT_DIR$/Car_v2/Car_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CdList-Application/CdList-Application.iml" filepath="$PROJECT_DIR$/CdList-Application/CdList-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClubMemberHierarchy/ClubMemberHierarchy.iml" filepath="$PROJECT_DIR$/ClubMemberHierarchy/ClubMemberHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColourPalette/ColourPalette.iml" filepath="$PROJECT_DIR$/ColourPalette/ColourPalette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colour_v1/Colour_v1.iml" filepath="$PROJECT_DIR$/Colour_v1/Colour_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colour_v2/Colour_v2.iml" filepath="$PROJECT_DIR$/Colour_v2/Colour_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course/Course.iml" filepath="$PROJECT_DIR$/Course/Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course_v1/Course_v1.iml" filepath="$PROJECT_DIR$/Course_v1/Course_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email_v2a/Email_v2a.iml" filepath="$PROJECT_DIR$/Email_v2a/Email_v2a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseGrade/ExerciseGrade.iml" filepath="$PROJECT_DIR$/ExerciseGrade/ExerciseGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise AlarmClock/Extra-Exercise AlarmClock.iml" filepath="$PROJECT_DIR$/Extra-Exercise AlarmClock/Extra-Exercise AlarmClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise Brain/Extra-Exercise Brain.iml" filepath="$PROJECT_DIR$/Extra-Exercise Brain/Extra-Exercise Brain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise DateInterval/Extra-Exercise DateInterval.iml" filepath="$PROJECT_DIR$/Extra-Exercise DateInterval/Extra-Exercise DateInterval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise DateTime/Extra-Exercise DateTime.iml" filepath="$PROJECT_DIR$/Extra-Exercise DateTime/Extra-Exercise DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise Garage-array/Extra-Exercise Garage-array.iml" filepath="$PROJECT_DIR$/Extra-Exercise Garage-array/Extra-Exercise Garage-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise Line/Extra-Exercise Line.iml" filepath="$PROJECT_DIR$/Extra-Exercise Line/Extra-Exercise Line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise MyNumber/Extra-Exercise MyNumber.iml" filepath="$PROJECT_DIR$/Extra-Exercise MyNumber/Extra-Exercise MyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra-Exercise Order/Extra-Exercise Order.iml" filepath="$PROJECT_DIR$/Extra-Exercise Order/Extra-Exercise Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtraExercise Persom-House-Address/ExtraExercise Persom-House-Address.iml" filepath="$PROJECT_DIR$/ExtraExercise Persom-House-Address/ExtraExercise Persom-House-Address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-Date/GUI-Date.iml" filepath="$PROJECT_DIR$/GUI-Date/GUI-Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-GradeList_3windows/GUI-GradeList_3windows.iml" filepath="$PROJECT_DIR$/GUI-GradeList_3windows/GUI-GradeList_3windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-GradeList_v1/GUI-GradeList_v1.iml" filepath="$PROJECT_DIR$/GUI-GradeList_v1/GUI-GradeList_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-GradeList_v2/GUI-GradeList_v2.iml" filepath="$PROJECT_DIR$/GUI-GradeList_v2/GUI-GradeList_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-GradeList_v3/GUI-GradeList_v3.iml" filepath="$PROJECT_DIR$/GUI-GradeList_v3/GUI-GradeList_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-GradelistLogIn/GUI-GradelistLogIn.iml" filepath="$PROJECT_DIR$/GUI-GradelistLogIn/GUI-GradelistLogIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-LogIn/GUI-LogIn.iml" filepath="$PROJECT_DIR$/GUI-LogIn/GUI-LogIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-LogInApplication/GUI-LogInApplication.iml" filepath="$PROJECT_DIR$/GUI-LogInApplication/GUI-LogInApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-MyDate/GUI-MyDate.iml" filepath="$PROJECT_DIR$/GUI-MyDate/GUI-MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI-MyDate2windows/GUI-MyDate2windows.iml" filepath="$PROJECT_DIR$/GUI-MyDate2windows/GUI-MyDate2windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Garage/Garage.iml" filepath="$PROJECT_DIR$/Garage/Garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList Html-Files/GradeList Html-Files.iml" filepath="$PROJECT_DIR$/GradeList Html-Files/GradeList Html-Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList-Application/GradeList-Application.iml" filepath="$PROJECT_DIR$/GradeList-Application/GradeList-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList-Files/GradeList-Files.iml" filepath="$PROJECT_DIR$/GradeList-Files/GradeList-Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList-JavaDoc/GradeList-JavaDoc.iml" filepath="$PROJECT_DIR$/GradeList-JavaDoc/GradeList-JavaDoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList-XML/GradeList-XML.iml" filepath="$PROJECT_DIR$/GradeList-XML/GradeList-XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList_v1/GradeList_v1.iml" filepath="$PROJECT_DIR$/GradeList_v1/GradeList_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList_v2/GradeList_v2.iml" filepath="$PROJECT_DIR$/GradeList_v2/GradeList_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList_v3/GradeList_v3.iml" filepath="$PROJECT_DIR$/GradeList_v3/GradeList_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList_v4/GradeList_v4.iml" filepath="$PROJECT_DIR$/GradeList_v4/GradeList_v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeList_v6/GradeList_v6.iml" filepath="$PROJECT_DIR$/GradeList_v6/GradeList_v6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grade_v1/Grade_v1.iml" filepath="$PROJECT_DIR$/Grade_v1/Grade_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guest_v1/Guest_v1.iml" filepath="$PROJECT_DIR$/Guest_v1/Guest_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeHierarchy/HomeHierarchy.iml" filepath="$PROJECT_DIR$/HomeHierarchy/HomeHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel/Hotel.iml" filepath="$PROJECT_DIR$/Hotel/Hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel Excceptions/Hotel Excceptions.iml" filepath="$PROJECT_DIR$/Hotel Excceptions/Hotel Excceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelArrayList/HotelArrayList.iml" filepath="$PROJECT_DIR$/HotelArrayList/HotelArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v1/HotelRoom_v1.iml" filepath="$PROJECT_DIR$/HotelRoom_v1/HotelRoom_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" filepath="$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" filepath="$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input Exceptions/Input Exceptions.iml" filepath="$PROJECT_DIR$/Input Exceptions/Input Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputLoop/InputLoop.iml" filepath="$PROJECT_DIR$/InputLoop/InputLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputLoop_v1/InputLoop_v1.iml" filepath="$PROJECT_DIR$/InputLoop_v1/InputLoop_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job/Job.iml" filepath="$PROJECT_DIR$/Job/Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kindergarden/Kindergarden.iml" filepath="$PROJECT_DIR$/Kindergarden/Kindergarden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYears/LeapYears.iml" filepath="$PROJECT_DIR$/LeapYears/LeapYears.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaritalStatus/MaritalStatus.iml" filepath="$PROJECT_DIR$/MaritalStatus/MaritalStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method Equals/Method Equals.iml" filepath="$PROJECT_DIR$/Method Equals/Method Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodCopy/MethodCopy.iml" filepath="$PROJECT_DIR$/MethodCopy/MethodCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidtermTestexam4(Course)/MidtermTestexam4(Course).iml" filepath="$PROJECT_DIR$/MidtermTestexam4(Course)/MidtermTestexam4(Course).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mp3Player_v1/Mp3Player_v1.iml" filepath="$PROJECT_DIR$/Mp3Player_v1/Mp3Player_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v4/MyDate_v4.iml" filepath="$PROJECT_DIR$/MyDate_v4/MyDate_v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v5/MyDate_v5.iml" filepath="$PROJECT_DIR$/MyDate_v5/MyDate_v5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v6/MyDate_v6.iml" filepath="$PROJECT_DIR$/MyDate_v6/MyDate_v6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person Exceprions/Person Exceptions.iml" filepath="$PROJECT_DIR$/Person Exceprions/Person Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person1/Person1.iml" filepath="$PROJECT_DIR$/Person1/Person1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonAndMyDate/PersonAndMyDate.iml" filepath="$PROJECT_DIR$/PersonAndMyDate/PersonAndMyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v0/Person_v0.iml" filepath="$PROJECT_DIR$/Person_v0/Person_v0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v2/Person_v2.iml" filepath="$PROJECT_DIR$/Person_v2/Person_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v3/Person_v3.iml" filepath="$PROJECT_DIR$/Person_v3/Person_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v4/Person_v4.iml" filepath="$PROJECT_DIR$/Person_v4/Person_v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlanB/PlanB.iml" filepath="$PROJECT_DIR$/PlanB/PlanB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityNote/PriorityNote.iml" filepath="$PROJECT_DIR$/PriorityNote/PriorityNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadraticFunction/QuadraticFunction.iml" filepath="$PROJECT_DIR$/QuadraticFunction/QuadraticFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semester 1.iml" filepath="$PROJECT_DIR$/Semester 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceBook/ServiceBook.iml" filepath="$PROJECT_DIR$/ServiceBook/ServiceBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Song_v1/Song_v1.iml" filepath="$PROJECT_DIR$/Song_v1/Song_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Song_v2/Song_v2.iml" filepath="$PROJECT_DIR$/Song_v2/Song_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentList/StudentList.iml" filepath="$PROJECT_DIR$/StudentList/StudentList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student_v1/Student_v1.iml" filepath="$PROJECT_DIR$/Student_v1/Student_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TVSeries/TVSeries.iml" filepath="$PROJECT_DIR$/TVSeries/TVSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDimensionalShape/TwoDimensionalShape.iml" filepath="$PROJECT_DIR$/TwoDimensionalShape/TwoDimensionalShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle-Hierarchy/Vehicle-Hierarchy.iml" filepath="$PROJECT_DIR$/Vehicle-Hierarchy/Vehicle-Hierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleList_v2/VehicleList_v2.iml" filepath="$PROJECT_DIR$/VehicleList_v2/VehicleList_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadasda/dadasda.iml" filepath="$PROJECT_DIR$/dadasda/dadasda.iml" />
+    </modules>
+  </component>
+</project>

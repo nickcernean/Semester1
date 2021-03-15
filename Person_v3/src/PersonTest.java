@@ -1,0 +1,81 @@
+public class PersonTest
+{
+  public static void main(String[] args)
+  {
+    Person P1=new Person("Bob",'F');
+    System.out.println("Person1:"+P1.toString());
+    System.out.println("AgeStatus:"+P1.getAgeStatus());
+
+    P1.setAge(-1);
+    P1.setGender('M');
+    System.out.println("Person1"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(-1);
+    P1.setGender('F');
+    System.out.println("Person2"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(0);
+    P1.setGender('M');
+    System.out.println("Person3"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(0);
+    P1.setGender('F');
+    System.out.println("Person4"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(11);
+    P1.setGender('M');
+    System.out.println("Person5"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(11);
+    P1.setGender('F');
+    System.out.println("Person6"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(17);
+    P1.setGender('M');
+    System.out.println("Person7"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(17);
+    P1.setGender('F');
+    System.out.println("Person8"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(18);
+    P1.setGender('M');
+    System.out.println("Person9"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(18);
+    P1.setGender('F');
+    System.out.println("Person10"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(19);
+    P1.setGender('M');
+    System.out.println("Person10"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(19);
+    P1.setGender('F');
+    System.out.println("Person10"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(37);
+    P1.setGender('M');
+    System.out.println("Person10"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+    P1.setAge(37);
+    P1.setGender('F');
+    System.out.println("Person10"+P1.getAge());
+    System.out.println("Gender:"+P1.getGender());
+    System.out.println("AgeStatus:"+P1.getStatus());
+
+  }
+}

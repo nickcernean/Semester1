@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox prefHeight="164.0" prefWidth="294.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.DateWindowViewController">
+   <children>
+      <HBox alignment="CENTER" prefHeight="46.0" prefWidth="294.0">
+         <children>
+            <Label fx:id="dateLabel"  text="Date:" textFill="#f00f0f">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="121.0" prefWidth="294.0" spacing="30.0">
+         <children>
+            <Button onAction="#setButton" mnemonicParsing="false" text="Set">
+               <font>
+                  <Font size="24.0"/>
+               </font>
+            </Button>
+            <Button onAction="#cancelButton" layoutX="124.0" layoutY="40.0" mnemonicParsing="false" text="Quit">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</VBox>
